@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @GavrilovaMilena
+# 👋 Hi, I’m Gavrilova Milena
 
 # 🌱 I’m currently studying at Yandex.Praktikum
 
