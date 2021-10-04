@@ -10,8 +10,6 @@
 #### Here you can contact me or just subscribe to me
 
 [<img src="https://img.shields.io/badge/@mlngvr-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/mlngvr)
-[<img src="https://img.shields.io/badge/mlngvr-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/mlngvr)
-[<img src="https://img.shields.io/badge/mlngvr-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/>](https://www.snapchat.com/add/mlngvr)
 
 ## Languages
 #### I practice these languages
