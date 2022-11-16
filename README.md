@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Gavrilova Milena
 
-# 🌱 I’m currently studying at Yandex.Praktikum
+# 🌱 Graduated from courses at Yandex.Practicum, worked in an English company
 
 ## IDE
 
