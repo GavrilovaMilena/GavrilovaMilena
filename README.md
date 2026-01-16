@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Gavrilova Milena
 
-# 🌱 Graduated from courses at Yandex.Practicum, wow, worked in an English company, worked as a tester✌
+# 🌱 Wow, worked in an English company, worked as a tester✌
 
 ## IDE
 
