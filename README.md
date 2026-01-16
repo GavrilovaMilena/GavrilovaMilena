@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Gavrilova Milena
 
-# 🌱 Wow, worked in an English company, worked as a tester✌
+# 🌱 Wow, worked for an English company, now as a tester✌
 
 ## IDE
 
